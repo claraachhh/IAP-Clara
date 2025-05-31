@@ -1,0 +1,18 @@
+[
+{ 
+    "nama" : "Clara Andini",
+    "umur" : 22,
+    "nim" : "2217020166",
+    "lulus" : false,
+    "hobby" : ["main", "tidur"],
+    "pembimbing" : "Novia"
+},
+{ 
+    "nama" : "Andini",
+    "umur" : 22,
+    "nim" : "2217020198",
+    "lulus" : true,
+    "hobby" : ["motoran", "jogging"],
+    "pembimbing" : "yaslinda"
+} 
+]
